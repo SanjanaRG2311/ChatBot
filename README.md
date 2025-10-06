@@ -1,2 +1,3 @@
 # ChatBot
 A smart, conversational chatbot that helps citizens discover and understand government welfare schemes across Southern Indian states.
+The chatbot relies on carefully chosen Python packages that work together seamlessly. FastAPI forms our robust backend foundation, handling API requests with incredible speed while Streamlit creates our beautiful, distraction-free frontend interface. We use Uvicorn as our ASGI server to keep everything running smoothly, Pydantic for data validation to ensure accurate information delivery, and Requests for seamless communication between frontend and backend. These technologies combine to create a system that's both powerful enough to understand complex queries and simple enough for anyone to use without technical knowledge.
